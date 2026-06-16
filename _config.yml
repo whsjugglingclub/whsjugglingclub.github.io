@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: My website
 
 # Your name to show in the footer
 author: Some Person
@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutus"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -33,7 +33,8 @@ navbar-links:
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 #"/assets/img/avatar-icon.png"
-avatar: "/assets/img/juggling_club-group_picture.jpg"
+avatar: "/assets/img/avatar-icon.png"
+#"/assets/img/juggling_club-group_picture.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
