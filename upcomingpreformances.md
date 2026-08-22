@@ -4,6 +4,12 @@ title: Upcoming Performances
 subtitle: Come watch us juggle!
 ---
 
+<style>
+  .intro-header .page-heading h1 {
+    font-size: 2.25rem !important;
+  }
+</style>
+
 We don't have any performances scheduled yet — check back soon!
 
 
