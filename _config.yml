@@ -22,8 +22,7 @@ author: Rory Bayly
 navbar-links:
   About Us: "aboutme"
   Upcoming Performances: "upcomingpreformances"
-  Contact Us: "mailto:whsjugglingclub@gmail.com?subject=Juggling%20Club%20Inquiry"
-
+  Contact Us: "mailto:whsjugglingclub@gmail.com?subject=Juggling%20Club%20Inquiry&cc=Amanda.Peterson@slcschools.org, rory.b491@slcstudents.org"
 ################
 # --- Logo --- #
 ################
@@ -50,7 +49,8 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "whsjugglingclub@gmail.com"
+  # email: "whsjugglingclub@gmail.com"
+  email: "mailto:whsjugglingclub@gmail.com?subject=Juggling%20Club%20Inquiry&cc=Amanda.Peterson@slcschools.org, rory.b491@slcstudents.org"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   youtube: "@WHSJugglingClub"
   instagram: juggling_club_whs
